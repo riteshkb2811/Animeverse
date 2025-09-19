@@ -39,7 +39,7 @@ Anime Cards Section
 
 Clone the repository:
 
-git clone https://github.com/your-username/animeverse.git
+git clone https://github.com/riteshkb2811/animeverse.git
 
 
 Navigate to the project folder:
